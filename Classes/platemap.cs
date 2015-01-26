@@ -5,7 +5,11 @@ using System.Web;
 
 namespace WorldGen.Classes
 {
-    public class platemap
+    public class platemap : List<plate>
     {
+        public platemap(int count)
+        {
+            this.Capacity = count;
+        }
     }
 }

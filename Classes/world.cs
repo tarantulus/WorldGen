@@ -5,12 +5,11 @@ using System.Web;
 
 namespace WorldGen.Classes
 {
-    public class World
+    public class World : List<Map>
     {
-    List<Map> maps = new List<Map>();
     int tileSize;
     public World(int width, int height, int tilesize) {
-        this.maps.Add(new Map(width,height));
+        this.Add(new Map(width,height));
     }
     //this.dynasty = {};
     //this.options = {};

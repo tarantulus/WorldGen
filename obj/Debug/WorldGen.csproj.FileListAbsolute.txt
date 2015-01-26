@@ -76,4 +76,3 @@ D:\GIT\WorldGen\WorldGen\bin\zh-Hans\System.Spatial.resources.dll
 D:\GIT\WorldGen\WorldGen\bin\zh-Hant\System.Spatial.resources.dll
 D:\GIT\WorldGen\WorldGen\obj\Debug\WorldGen.dll
 D:\GIT\WorldGen\WorldGen\obj\Debug\WorldGen.pdb
-D:\GIT\WorldGen\WorldGen\obj\Debug\WorldGen.csprojResolveAssemblyReference.cache

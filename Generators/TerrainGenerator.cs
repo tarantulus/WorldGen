@@ -21,6 +21,7 @@ namespace WorldGen.Generators
             _currentMap = map;
             _centre = new Point(_currentMap.width / 2, _currentMap.height / 2);
             _radius = (_currentMap.width / 2) - 2;
+            GeneratePrimordial();
         }
         public void GeneratePrimordial(){
 
