@@ -13,7 +13,7 @@ namespace WorldGen.Classes
         public List<Point> neighbours;
         public Tile()
         {
-
+            neighbours = new List<Point>();
         }
     }
     public enum TileType{
