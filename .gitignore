@@ -27,3 +27,4 @@ Content/themes/base/minified/jquery.ui.selectable.min.css
 Content/themes/base/minified/jquery.ui.slider.min.css
 Content/themes/base/minified/jquery.ui.tabs.min.css
 Content/themes/base/minified/jquery.ui.theme.min.css
+packages/*
